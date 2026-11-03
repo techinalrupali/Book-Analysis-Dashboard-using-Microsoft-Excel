@@ -67,9 +67,9 @@ The dashboard contains six major visualizations:
 
 ## 📁 Project Files
 
-- `[Book Analysis Dashboard.xlsx](https://github.com/user-attachments/files/34305392/Book.Analysis.Dashboard.xlsx)
+- `Book Analysis Dashboard.xlsx
 ` – Excel workbook containing the dashboard, raw data, Pivot Tables, KPIs, and insights.
-- `<img width="711" height="387" alt="Book Analysis Dashboard" src="https://github.com/user-attachments/assets/52da2f67-dec6-427f-8bac-7885c0104ff5" />
+- `Book Analysis Dashboard
 ` – Screenshot of the completed Excel dashboard.
 
 ## 📂 Dataset Columns
